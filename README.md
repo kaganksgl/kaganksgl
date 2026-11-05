@@ -66,6 +66,7 @@ A log analyzer written in Rust, built with Cargo.
 ## 📫 Find me
 
 [![GitHub](https://img.shields.io/badge/GitHub-kaganksgl-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaganksgl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ka%C4%9Fan-k%C3%B6seo%C4%9Flu-449476323/) 
 
 <p align="center"><sub>⭐ If something here is useful to you, a star is always appreciated.</sub></p>
 
