@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Artun Kağan 👋</h1>
+<h1 align="center">Hi, I'm Kağan 👋</h1>
 
 <p align="center">
   Computer Engineering student at <b>METU (ODTÜ)</b> · I like building tools close to the metal and products people actually use.
